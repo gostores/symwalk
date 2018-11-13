@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gostores/ensure"
-	"github.com/gostores/testname"
+	"github.com/govenue/ensure"
+	"github.com/govenue/testname"
 )
 
 type WalkFn struct {
